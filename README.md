@@ -1,4 +1,9 @@
 ## Hi there 👋
+## I'm DuongCoder04!
+
+## 🛠️ Skills
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 
 <!--
 **DuongCoder04/DuongCoder04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
