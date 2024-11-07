@@ -1,5 +1,5 @@
 # 👋 Hi, I'm DuongCoder04!
-
+![Meme GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVsZjNwZ2Z2c3M5dWZnNnJwZzBmeTJldjJhejUxeGYxeG8zcHRpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPThd7nZwKGZs91Hdz/giphy.webp)
 - 🌱 I'm an passionate IT student who loves building functional, beautiful, and effective applications.
 - ⚡ I have experience using various programming languages ​​and frameworks.
 - 🔭 I am constantly learning, developing and improving my skills to be able to overcome new challenges. 
@@ -12,8 +12,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
-
+  ![SQL](https://img.shields.io/badge/-SQLServer-4479A1?style=flat&logo=sqlite&logoColor=white)
 - **Frameworks**:  
   ![.Net](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dot-net&logoColor=white)
   ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=dot-net&logoColor=white)
