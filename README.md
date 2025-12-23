@@ -111,7 +111,7 @@ const aboutMe = {
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=DuongCoder04&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuongCoder04&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 
