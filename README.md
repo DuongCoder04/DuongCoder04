@@ -22,9 +22,7 @@ const aboutMe = {
 };
 ```
 
-- 🔭 Currently working on **[Current Project]**
 - 🌱 Learning **Blockchain Development & DeFi Protocols**
-- � Pỏassionate about **Crypto Trading & NFT Markets**
 - 🤖 Leveraging **AI Tools** to boost productivity
 - ⚡ Hobbies: **Coding, Trading, Reading, Coffee ☕**
 
