@@ -16,7 +16,7 @@
 const aboutMe = {
     name: "Nguyen Van Duong",
     role: "Full Stack Developer",
-    location: "Vietnam 🇻�",
+    location: "Vietnam",
     currentFocus: "Building Web3 applications & Trading Crypto",
     funFact: "Keep calm !!! It's not a bug, It's a feature."
 };
@@ -112,17 +112,7 @@ const aboutMe = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongcoder04&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duongcoder04&theme=tokyonight" alt="streak stats"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=duongcoder04&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=duongcoder04&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 ---
 
