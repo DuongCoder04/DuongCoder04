@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey there, I'm [Your Name]
+# 👋 Hey there, I'm Penguin
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Blockchain+%26+Web3+Enthusiast;Crypto+Trader+%26+NFT+Collector;AI+Tools+Power+User)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=duongcoder04&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
