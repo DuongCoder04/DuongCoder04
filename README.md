@@ -95,9 +95,9 @@ const aboutMe = {
 
 <div align="center">
 
-![Kiro](https://img.shields.io/badge/-Kiro-FF6B6B?style=for-the-badge&logo=amazon&logoColor=white)
+![Kiro](https://img.shields.io/badge/-Kiro-7C3AED?style=for-the-badge&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Antigravity](https://img.shields.io/badge/-Antigravity-7C3AED?style=for-the-badge&logoColor=white)
+![Antigravity](https://img.shields.io/badge/-Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -108,12 +108,12 @@ const aboutMe = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duongcoder04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongcoder04&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duongcoder04&theme=tokyonight" alt="streak stats"/>
 </div>
 
 ---
@@ -121,7 +121,7 @@ const aboutMe = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=duongcoder04&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
 </div>
 
 ---
@@ -130,12 +130,10 @@ const aboutMe = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-username)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duong-nguyen-professional/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DngNguynVn55489)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duongnguyen.professional@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kenjy09)
 
 </div>
 
@@ -145,10 +143,10 @@ const aboutMe = {
 
 ### 💭 Favorite Quote
 
-> *"In crypto, we don't just invest in technology — we invest in the future of freedom."*
+> *"Was mich nicht umbringt, macht mich stärker"*
 
 ---
 
-⭐️ From [your-username](https://github.com/your-username)
+⭐️ From [your-username](https://github.com/duongcoder04)
 
 </div>
