@@ -110,7 +110,10 @@ const aboutMe = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongcoder04&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=duongcoder04&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DuongCoder04&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
+</div>
+
 
 ---
 
@@ -135,6 +138,6 @@ const aboutMe = {
 
 ---
 
-⭐️ From [your-username](https://github.com/duongcoder04)
+⭐️ From [Mr. Penguin](https://github.com/duongcoder04)
 
 </div>
