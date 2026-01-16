@@ -16,7 +16,7 @@
 const aboutMe = {
     name: "Nguyen Van Duong",
     role: "Full Stack Developer",
-    location: "Vietnam",
+    location: "Cambodia",
     currentFocus: "Building Web3 applications & Trading Crypto",
     funFact: "Keep calm !!! It's not a bug, It's a feature."
 };
@@ -24,7 +24,7 @@ const aboutMe = {
 
 - 🌱 Learning **Blockchain Development & DeFi Protocols**
 - 🤖 Leveraging **AI Tools** to boost productivity
-- ⚡ Hobbies: **Coding, Trading, Reading, Coffee ☕**
+- ⚡ Hobbies: **Coding, Trading, Reading, Cooking, Coffee ☕**
 
 ---
 
@@ -104,11 +104,6 @@ const aboutMe = {
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duongcoder04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongcoder04&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuongCoder04&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
