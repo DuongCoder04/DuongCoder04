@@ -89,12 +89,12 @@ const aboutMe = {
 
 <div align="center">
 
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Grok](https://img.shields.io/badge/-Grok-000000?style=for-the-badge&logo=x&logoColor=white)
-![Qwen](https://img.shields.io/badge/-Qwen-000000?style=for-the-badge&logo=qwen&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Qwen](https://img.shields.io/badge/-Qwen-615ced?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-8534F3?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 </div>
 
