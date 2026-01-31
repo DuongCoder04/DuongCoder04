@@ -89,7 +89,7 @@ const aboutMe = {
 
 <div align="center">
 
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-10a37f?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Grok](https://img.shields.io/badge/-Grok-000000?style=for-the-badge&logo=x&logoColor=white)
@@ -102,22 +102,15 @@ const aboutMe = {
 
 <div align="center">
 
-![Kiro](https://img.shields.io/badge/-Kiro-7C3AED?style=for-the-badge&logoColor=white)
+![Kiro](https://img.shields.io/badge/-Kiro-7138CC?style=for-the-badge&logo=amazon&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/-Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Zed](https://img.shields.io/badge/-Zed-000000?style=for-the-badge&logo=zed&logoColor=white)
-![Orchids](https://img.shields.io/badge/-Orchids-000000?style=for-the-badge&logo=orchids&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Zed](https://img.shields.io/badge/-Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
+![Orchids](https://img.shields.io/badge/-Orchids-2563EB?style=for-the-badge&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
-### 🔧 Other Tools
-
-<div align="center">
-
-![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-</div>
 ---
 
 ## 📊 GitHub Stats
