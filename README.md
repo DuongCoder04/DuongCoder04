@@ -105,8 +105,8 @@ const aboutMe = {
 ![Kiro](https://img.shields.io/badge/-Kiro-7138CC?style=for-the-badge&logo=amazon&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/-Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Zed](https://img.shields.io/badge/-Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
-![Orchids](https://img.shields.io/badge/-Orchids-2563EB?style=for-the-badge&logoColor=white)
+![Zed](https://img.shields.io/badge/-Zed-000000?style=for-the-badge&logo=zedindustries&logoColor=808080)
+![Orchids](https://img.shields.io/badge/-Orchids-000000?style=for-the-badge&logo=spectrum&logoColor=FF69B4)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
