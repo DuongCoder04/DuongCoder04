@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXQzNTZoY250MTM3NWU0OGkxYTNlOWRrem85N25qMmtjdzMyajhidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="300" />
 
 # 👋 Hey there, I'm Penguin
 
