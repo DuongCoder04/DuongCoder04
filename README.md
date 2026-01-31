@@ -19,7 +19,7 @@ const aboutMe = {
     role: "Full Stack Developer",
     location: "Cambodia",
     funFact: "Keep calm !!! It's not a bug, It's a feature.",
-    hobby: "Coding, Trading, Reading, Cooking, Coffee ☕"
+    hobby: "Vibe Coding, Trading Crypto, Gym, Reading Books, Cooking, Gaming, Listening Music, Coffee ☕"
 };
 ```
 ---
@@ -33,22 +33,38 @@ const aboutMe = {
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-17803F?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-### Database & Tools
+### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Development Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -60,17 +76,14 @@ const aboutMe = {
 
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Solana](https://img.shields.io/badge/-Solana-000000?style=for-the-badge&logo=solana&logoColor=white)
 ![Binance](https://img.shields.io/badge/-Binance-F0B90B?style=for-the-badge&logo=binance&logoColor=black)
 ![Polygon](https://img.shields.io/badge/-Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![OpenSea](https://img.shields.io/badge/-OpenSea-2081E2?style=for-the-badge&logo=opensea&logoColor=white)
+![Uniswap](https://img.shields.io/badge/-Uniswap-000000?style=for-the-badge&logo=uniswap&logoColor=white)
 
 </div>
-
-- 📈 **Crypto Trader** - Technical & Fundamental Analysis
-- 🎨 **NFT Enthusiast** - Collecting & Creating Digital Art
-- 🔗 **Smart Contract Development** - Solidity & EVM
-- 💰 **DeFi Explorer** - Yield Farming & Liquidity Providing
 
 ---
 
@@ -82,21 +95,31 @@ const aboutMe = {
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Grok](https://img.shields.io/badge/-Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+![Qwen](https://img.shields.io/badge/-Qwen-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-### 🔧 Development & Automation Tools
+### 🔧 IDE & Productivity Tools
 
 <div align="center">
 
 ![Kiro](https://img.shields.io/badge/-Kiro-7C3AED?style=for-the-badge&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/-Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zed](https://img.shields.io/badge/-Zed-000000?style=for-the-badge&logo=zed&logoColor=white)
+![Orchids](https://img.shields.io/badge/-Orchids-000000?style=for-the-badge&logo=orchids&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
+### 🔧 Other Tools
+
+<div align="center">
+
+![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+</div>
 ---
 
 ## 📊 GitHub Stats
