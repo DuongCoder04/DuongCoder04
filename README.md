@@ -18,15 +18,10 @@ const aboutMe = {
     name: "Nguyen Van Duong",
     role: "Full Stack Developer",
     location: "Cambodia",
-    currentFocus: "Building Web3 applications & Trading Crypto",
-    funFact: "Keep calm !!! It's not a bug, It's a feature."
+    funFact: "Keep calm !!! It's not a bug, It's a feature.",
+    hobby: "Coding, Trading, Reading, Cooking, Coffee ☕"
 };
 ```
-
-- 🌱 Learning **Blockchain Development & DeFi Protocols**
-- 🤖 Leveraging **AI Tools** to boost productivity
-- ⚡ Hobbies: **Coding, Trading, Reading, Cooking, Coffee ☕**
-
 ---
 
 ## 🛠️ Tech Stack
