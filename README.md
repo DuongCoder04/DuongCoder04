@@ -50,13 +50,14 @@ const aboutMe = {
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/-TypeORM-2D3748?style=for-the-badge&logo=typeorm&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -77,11 +78,8 @@ const aboutMe = {
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Solana](https://img.shields.io/badge/-Solana-000000?style=for-the-badge&logo=solana&logoColor=white)
-![Binance](https://img.shields.io/badge/-Binance-F0B90B?style=for-the-badge&logo=binance&logoColor=black)
 ![Polygon](https://img.shields.io/badge/-Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![OpenSea](https://img.shields.io/badge/-OpenSea-2081E2?style=for-the-badge&logo=opensea&logoColor=white)
-![Uniswap](https://img.shields.io/badge/-Uniswap-000000?style=for-the-badge&logo=uniswap&logoColor=white)
 
 </div>
 
@@ -95,7 +93,7 @@ const aboutMe = {
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Grok](https://img.shields.io/badge/-Grok-000000?style=for-the-badge&logo=x&logoColor=white)
-![Qwen](https://img.shields.io/badge/-Qwen-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Qwen](https://img.shields.io/badge/-Qwen-000000?style=for-the-badge&logo=qwen&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
