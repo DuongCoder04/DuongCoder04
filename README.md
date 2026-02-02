@@ -17,7 +17,7 @@
 const aboutMe = {
     name: "Nguyen Van Duong",
     role: "Full Stack Developer",
-    location: "Cambodia",
+    location: "Vietnam",
     funFact: "Keep calm !!! It's not a bug, It's a feature.",
     hobby: "Vibe Coding, Trading Crypto, Gym, Reading Books, Cooking, Gaming, Listening Music, Coffee ☕"
 };
