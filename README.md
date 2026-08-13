@@ -64,6 +64,6 @@ And for now, I think that is enough.
 
 <div align="right">
 
-*—— Nguyễn Văn Dưỡng ——*
+*— Nguyễn Văn Dưỡng —*
 
 </div>
